@@ -1,4 +1,4 @@
-#IPL-Score-Prediction-using-Deep-Learning
+# IPL-Score-Prediction-using-Deep-Learning
 
 
 This project predicts cricket scores using machine learning. It provides a Jupyter Notebook that guides you through data loading, preprocessing, model training, and making predictions through a user interface.
