@@ -21,7 +21,7 @@ This project predicts cricket scores using machine learning. It provides a Jupyt
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/cricket-score-prediction.git
+    https://github.com/Hansaka2001/IPL-Score-Prediction-using-Deep-Learning.git
     cd cricket-score-prediction
     ```
 
@@ -40,6 +40,3 @@ This project predicts cricket scores using machine learning. It provides a Jupyt
 2. Follow the instructions in the notebook to load data, train the model, and make predictions.
 
 
-## License
-
-This project is licensed under the MIT License.
